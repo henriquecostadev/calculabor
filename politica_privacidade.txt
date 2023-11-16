@@ -1,0 +1,25 @@
+
+
+Política de Privacidade
+Esta Política de Privacidade descreve como as informações financeiras são coletadas, utilizadas e armazenadas pelo aplicativo Calculabor desenvolvido por Henrique da Costa e Silva. Esta Política se aplica ao uso do aplicativo em dispositivos móveis.
+
+Coleta e Uso de Informações
+Dados Financeiros
+O aplicativo Calculabor pode solicitar e utilizar dados financeiros fornecidos pelo usuário, tais como valores salariais, taxas de câmbio ou outras informações financeiras necessárias para realizar cálculos ou simulações. Estes dados são estritamente utilizados para fornecer funcionalidades de cálculo de salários, simulações financeiras em diferentes moedas e regimes de contratação (como Pessoa Jurídica).
+
+Armazenamento Local
+Todas as informações financeiras inseridas ou geradas pelo usuário são armazenadas localmente no dispositivo. O aplicativo não realiza qualquer transmissão ou armazenamento desses dados em servidores externos ou em nuvem. A privacidade e a segurança dos dados do usuário são prioridades e, por isso, nenhum dado financeiro é compartilhado com terceiros.
+
+Não Requer Login ou Autenticação
+Calculabor não exige que os usuários façam login ou se autentiquem para utilizar suas funcionalidades. Não coletamos informações pessoais identificáveis, como nome, endereço de e-mail, ou outras informações de identificação pessoal.
+
+Consentimento do Usuário
+Ao utilizar o aplicativo Calculabor, você concorda com a coleta e uso das informações financeiras conforme descrito nesta Política de Privacidade. Se você não concorda com os termos aqui descritos, por favor, não utilize o aplicativo.
+
+Alterações na Política de Privacidade
+Eventuais atualizações ou alterações nesta Política de Privacidade serão refletidas nesta página. É recomendado que os usuários revisem periodicamente esta política para se manterem informados sobre como suas informações são protegidas e utilizadas.
+
+Contato
+Se houver dúvidas ou preocupações sobre esta Política de Privacidade ou sobre o uso do aplicativo Calculabor, entre em contato conosco por e-mail em henrique8619@gmail.com .
+
+Esta Política de Privacidade foi atualizada pela última vez em 11 de novembro de.
